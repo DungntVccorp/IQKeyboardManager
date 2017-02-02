@@ -30,5 +30,24 @@ FOUNDATION_EXPORT double IQKeyboardManagerSwiftVersionNumber;
 FOUNDATION_EXPORT const unsigned char IQKeyboardManagerSwiftVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <IQKeyboardManagerSwift/PublicHeader.h>
+#import <IQKeyboardManager/IQBarButtonItem.h>
+#import <IQKeyboardManager/IQKeyboardReturnKeyHandler.h>
+#import <IQKeyboardManager/IQPreviousNextView.h>
+#import <IQKeyboardManager/IQTextView.h>
+#import <IQKeyboardManager/IQToolbar.h>
+#import <IQKeyboardManager/IQUIScrollView+Additions.h>
+#import <IQKeyboardManager/IQUITextFieldView+Additions.h>
+#import <IQKeyboardManager/IQUIView+Hierarchy.h>
+#import <IQKeyboardManager/IQUIView+IQKeyboardToolbar.h>
+#import <IQKeyboardManager/IQUIViewController+Additions.h>
+#import <IQKeyboardManager/IQUIWindow+Hierarchy.h>
+#import <IQKeyboardManager/TOActivityCroppedImageProvider.h>
+#import <IQKeyboardManager/TOCroppedImageAttributes.h>
+#import <IQKeyboardManager/TOCropScrollView.h>
+#import <IQKeyboardManager/TOCropViewControllerTransitioning.h>
+#import <IQKeyboardManager/UIImage+CropRotate.h>
+#import <IQKeyboardManager/THBubbleColor.h>
+#import <IQKeyboardManager/THContactBubble.h>
+
 
 
